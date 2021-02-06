@@ -6,4 +6,4 @@
 ![poutingemoji's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nekoamaa&theme=dark&show_icons=true&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nekoamaa&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=poutingemoji.poutingemoji)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=nekoamaa.nekoamaa)
