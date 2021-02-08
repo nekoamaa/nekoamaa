@@ -1,4 +1,4 @@
-## <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" alt="discord-icon" width="40" heigh="20"/> nekoama#6243
+## <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" alt="discord-icon" width="10" heigh="20"/> nekoama#6243
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=nekoamaa.nekoamaa)
 
 ![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
