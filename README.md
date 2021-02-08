@@ -1,4 +1,4 @@
-## nekoama#6243
+## ![Visitor Badge](https://iconscout.com/icon/discord-3) nekoama#6243
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=nekoamaa.nekoamaa)
 
 ![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
