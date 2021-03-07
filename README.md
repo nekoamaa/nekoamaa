@@ -13,10 +13,6 @@
 ![TWITTER](https://img.shields.io/badge/<nekoama>%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white")
 ![DISCORD](https://img.shields.io/badge/%3Cnekoama%3E%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white%22)
 
-![ADOBE PHOTOSHOP](https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![GITHUB](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white%22)
-![SPOTIFY](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white%22)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nekoamaa&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 ![nekoama's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nekoamaa&theme=dark&show_icons=true&hide_border=true)
