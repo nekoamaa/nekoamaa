@@ -1,4 +1,4 @@
-![Banner](https://cdn.discordapp.com/attachments/828498654595776563/862877494575497266/thumb-1920-451184.png)
+![Banner](https://cdn.discordapp.com/attachments/679498196212383794/921618641160663050/alshirabio.png)
 
 # Hi, I'm nekoama
 
